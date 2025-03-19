@@ -60,7 +60,7 @@ yarn format
 
 ## Author
 
-[Akshat Mittal](https://akshatmittal61.vercel.app)
+[Akshat Mittal](https://github.com/axkkkur)
 
 ## Acknowledgements
 
