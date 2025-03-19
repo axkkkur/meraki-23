@@ -2,6 +2,10 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
+## Live Demo
+
+Check out the live version of the app: [Meraki-23](https://meraki-23-green.vercel.app/)
+
 ## Features
 
 -   [x] Next.js
@@ -21,15 +25,15 @@
 3.  Clone the repository.
 4.  Install dependencies.
 
-```sh
-yarn
-```
+    ```sh
+    yarn
+    ```
 
 5.  Start development server.
 
-```sh
-yarn dev
-```
+    ```sh
+    yarn dev
+    ```
 
 ## Scripts
 
@@ -52,6 +56,7 @@ yarn lint
 # Formats files.
 yarn format
 
+
 ```
 
 ## License
@@ -60,7 +65,7 @@ yarn format
 
 ## Author
 
-[Akshat Mittal](https://github.com/axkkkur)
+Ankur Singh
 
 ## Acknowledgements
 
